@@ -1,4 +1,4 @@
-*IBM Data Analytics and Visualisation Capstone Project
+**IBM Data Analytics and Visualisation Capstone Project
 
 In this Capstone Project course, I applied a variety of data analytics skills that I learnt as part of the previous courses.
 
